@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DUUIYr4liGzSUnnu5qAxWs+ob1TbkhGvjxzVZmK0oxpsscC40vSqOuHzOgjtajD9Yxlz47Xn18sMDouH8RlrHA==",
+  "success": true,
+  "projectFilePath": "H:\\PrivateSetterExample\\PrivateSetterExample\\PrivateSetterExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CEL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

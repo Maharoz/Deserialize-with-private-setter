@@ -1,0 +1,17 @@
+H:\PrivateSetterExample\PrivateSetterExample\bin\Debug\net6.0\PrivateSetterExample.exe
+H:\PrivateSetterExample\PrivateSetterExample\bin\Debug\net6.0\PrivateSetterExample.deps.json
+H:\PrivateSetterExample\PrivateSetterExample\bin\Debug\net6.0\PrivateSetterExample.runtimeconfig.json
+H:\PrivateSetterExample\PrivateSetterExample\bin\Debug\net6.0\PrivateSetterExample.dll
+H:\PrivateSetterExample\PrivateSetterExample\bin\Debug\net6.0\PrivateSetterExample.pdb
+H:\PrivateSetterExample\PrivateSetterExample\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\PrivateSetterExample.csproj.AssemblyReference.cache
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\PrivateSetterExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\PrivateSetterExample.AssemblyInfoInputs.cache
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\PrivateSetterExample.AssemblyInfo.cs
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\PrivateSetterExample.csproj.CoreCompileInputs.cache
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\PrivateSetterExample.csproj.CopyComplete
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\PrivateSetterExample.dll
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\refint\PrivateSetterExample.dll
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\PrivateSetterExample.pdb
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\PrivateSetterExample.genruntimeconfig.cache
+H:\PrivateSetterExample\PrivateSetterExample\obj\Debug\net6.0\ref\PrivateSetterExample.dll
